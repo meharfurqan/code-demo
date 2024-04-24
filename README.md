@@ -1,3 +1,3 @@
 # code-demo
 Practice material !!!! <br>
-Author : Furqan
+Author : Furqan Majeed
